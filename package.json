@@ -1,0 +1,21 @@
+{
+  "name": "typegraphql-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JP Barbosa <jp@jp7.com.br>",
+  "license": "MIT",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "dev": "ts-node-dev ./src/index.ts",
+    "build": "tsc",
+    "start": "node ./build/index.js"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "ts-node-dev": "^1.1.8",
+    "tsc": "^2.0.4",
+    "typescript": "^4.5.4"
+  }
+}
