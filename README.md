@@ -6,6 +6,10 @@ A simple GraphQL API back-end with TypeScript.
 
 https://github.com/jpbarbosa/typegraphql-api/wiki
 
+### Screenshot
+
+![Playground](https://github.com/jpbarbosa/typegraphql-api/wiki/images/playground.png)
+
 ### Main Packages
 
 * TypeGraphQL
